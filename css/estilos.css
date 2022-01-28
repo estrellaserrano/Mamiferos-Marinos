@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+body {
+ background-image: url("../figuras/fondo.jpg");	
+ background-color: #000;
+}
+
+
+center{
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*Le damos formato a los encabezados H1*/      
+h1 {
+  font-weight: bold;
+  text-align: center;  
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #ffffff;
+  
+}
+h2 {
+  font-weight: bold;
+  text-align: left;  
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #ffffff;
+  
+}
+
+/*Le damos formato a los pies de imagen*/
+figcaption {
+
+  text-align: center;
+}
+
+
+/*Le damos formato a las imágenes*/
+img {
+  
+  display: block;
+  width: 90px;
+  height: 40px;
+
+}
